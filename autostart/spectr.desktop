@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=spectr --replace
+Hidden=false
+X-MATE-Autostart-enabled=false
+Name[en_US]=wm Spectr
+Name=wm Spectr
+Comment[en_US]=
+Comment=
+X-MATE-Autostart-Delay=0

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=wm-awesome --replace
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=awesome
+Name=awesome
+Comment[en_US]=
+Comment=
+X-MATE-Autostart-Delay=0

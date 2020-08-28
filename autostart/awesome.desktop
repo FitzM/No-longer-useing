@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=awesome --replace
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=WM
+Name=WM
+Comment[en_US]=
+Comment=
+X-MATE-Autostart-Delay=0
